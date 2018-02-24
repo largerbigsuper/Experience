@@ -3,4 +3,4 @@
 
 # MySQL
 
-[数据类型--char和varchar的区别](../数据类型--char和varchar的区别.md)
+1. [数据类型--char和varchar的区别](MySQL/数据类型--char和varchar的区别.md)
